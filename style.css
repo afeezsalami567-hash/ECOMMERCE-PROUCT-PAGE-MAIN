@@ -1,0 +1,194 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: ROBOTO,Arial;
+  
+}
+
+.nav-bar{
+  background-color:rgb( hsl(25, 100%, 94%));
+  display: flex;
+  height: 70px;
+  border-bottom: 1px solid hsl(220, 14%, 75%);
+
+}
+.nav-div{
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+
+li{
+  display: inline-block;
+  color:hsl(220, 14%, 75%);
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.sneakers{
+  color:black;
+  font-size: 20px;
+  margin-left: 100px;
+  font-weight: 550;
+}
+
+.github{
+  display: flex;
+  align-items: center;
+ margin-left: 500px;
+ 
+}
+
+.image{
+  width: 30px;
+  margin-left: 10px;
+}
+
+.main-project{
+  margin-top: 60PX;
+  margin-left: 130px;
+}
+
+.thumnail{
+  width: 300px;
+  border-radius: 10px;
+  
+}
+
+.bottom-image{
+  margin-right: 17px;
+  margin-top: 10px;
+}
+
+.bottom-image:hover{
+  opacity: 0.3;
+}
+
+.index-button{
+  display: flex;
+  flex-direction: row;
+}
+
+.bottom-image img{
+  width: 60px;
+  border-radius: 12px;
+}
+
+
+
+
+
+.intro-div{
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+}
+.company{
+  color: hsl(222, 8%, 70%);
+  font-size: 10px;
+  font-weight: bold;
+  margin-bottom: -18px;
+}
+
+.index{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  width: 300px;
+}
+
+.paragraph{
+  color: hsl(220, 14%, 75%);
+  font-size: 12px;
+  width: 300PX;
+  line-height: 20PX;
+}
+
+.second-div{
+  display: flex;
+  flex-direction: row;
+  gap:10px;
+  margin-bottom: 10px;
+}
+
+.align{
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.item{
+  color: white;
+  background-color: black;
+  padding: 3px;
+  font-size: 10px;
+  border-radius: 3px;
+  height: 10px;
+  width: 20px   ;
+}
+
+.bar{
+  color: hsl(220, 14%, 75%);
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.jack{
+color: hsl(26, 100%, 55%);
+}
+
+.rebot{
+  margin-top: 70px;
+}
+
+.recap{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.text-align{
+  background-color: hsl(223, 64%, 98%);
+  width: 90px;
+  height: 25px;
+  padding: 3px;
+  border-radius: 5px;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+ 
+  
+}
+
+.inspect{
+  background-color:hsl(26, 100%, 55%); 
+  width: 190px;
+  border-radius: 5px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3px;
+}
+
+.icon-image{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  color: black;
+  margin-right: 5px;
+}
+
+.cart{
+  font-size: 12px;
+  display: inline-block;
+  font-weight: bold;
+}
+
+
+
+
